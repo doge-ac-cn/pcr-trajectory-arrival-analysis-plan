@@ -1,0 +1,18 @@
+225235d2f91b5571d3829ec5e96f5d865ad26dc228a40a0d2f4abd40b5b2efe3  ./amendments/AMENDMENT_2026-10-11_split-semantics-and-e0-gate.md
+3c30a3d0c35e8545fd9e39b9abd0ca5e93657364fbf09b76a0dde674c9621b69  ./amendments/AMENDMENT_2026-10-11_test-eval-incident.md
+652f07a200466bd09be0fef702b9d99c5bbb62b55ab9fbf029760a043c650ba0  ./amendments/README.md
+891a04210e35a020d36a9fea57a4381d79490d5d65d3bf4a05724e4086292e0c  ./analysis_specs/ANALYSIS_PLAN.md
+a87996937ee15b6eb2e8b6cb600eeda13ab8c1aa609ea849b65eae99eaf1bbaa  ./analysis_specs/historical_prespecification_2026-10-11/ANALYSIS_PLAN_v1.0_ZH_as_archived.md
+fbdb77b5d73d6d912adba7bc21998d4472b2b2cb805079bf31c8a3a5b6f51963  ./analysis_specs/historical_prespecification_2026-10-11/ARCHIVE_NOTE.md
+b8039f56d90e4b7989c49112326e6bee7e1c9ac96f6c3fc48eacad40df460f3c  ./checksums/SHA256SUMS.txt
+f8567dbe12508aa5ff5cd35af9b10068784a30c2a9a50b68ab3e5ec18f0604ba  ./docs/DATA_ACCESS.md
+b9e95ec20d263d3b7738445809e5525115e70ac95224e9c574b5572148d9ded4  ./docs/REPRODUCTION.md
+a90d3b8ce16d6e7f7c69a7e1b09ef1de57355677d6566349c22799c7179a3bbd  ./README.md
+0f428e2b69598ebfb373d47b777054b90123705b4f7c9cfbfc83465e8296d87d  ./splits/SPLIT_VERIFICATION.md
+
+# INPUT_PROVENANCE — sha256 of the frozen inputs consumed by the analysis
+# (paths relative to the private development repository; released here as digests only)
+4d1aedb91915782e1d7685f0beaf86dcae45abef5cb8174e84f3e4fdc4dbb70c  ../data/breastdcedl/BreastDCEDL_metadata_min_crop.csv
+297f4b920bca3d90017c656fb7773fde41f7c945b826ad860932b915bb54abf6  ../data/breastdcedl/BreastDCEDL_models/breastdcedl_pcr_vit_model_weights.pth
+c862c61f2bfdf901d1c7979c90e8e70ae46d19a1f9b9399df8923e2eb44ee508  ../features/roi_features.csv
+fa70394d7f8ec1841ed132be29392d86832d28047da4c16492d03f3d76d0ee69  ../features/embeddings/B_retrained.npz
